@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "979027517313",
+    "project_id": "heomovie-e5bbb",
+    "storage_bucket": "heomovie-e5bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979027517313:android:61baa458a1822fc6a89280",
+        "android_client_info": {
+          "package_name": "com.heomovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979027517313-4f8vmmv15hrafn4uioerq185h0lm4iin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN36UC1i9cSxCUPLxoVOgh91uH9kh7VNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979027517313-4f8vmmv15hrafn4uioerq185h0lm4iin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979027517313-kln6gmtnb0e2dlakfv8m5k6c839itrp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heomovie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
